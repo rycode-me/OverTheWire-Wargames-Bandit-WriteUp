@@ -43,6 +43,7 @@ Repository ini berisi write-up terstruktur dari **OverTheWire Bandit Wargame**, 
 
 ```
 ## Bandit Level 1 → 2
+<img width="624" height="43" alt="image" src="https://github.com/user-attachments/assets/2d59c7ee-d20c-4bb8-974a-1ba8a82d5fd1" />
 
 **Username:** bandit0  
 
@@ -50,6 +51,7 @@ Repository ini berisi write-up terstruktur dari **OverTheWire Bandit Wargame**, 
 <!-- Deskripsi singkat tantangan -->
 
 ### 🧠 Langkah Pengerjaan
+
 ```bash
 # perintah yang digunakan
 

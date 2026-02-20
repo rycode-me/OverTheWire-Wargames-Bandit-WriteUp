@@ -30,7 +30,6 @@ Repository ini berisi write-up terstruktur dari **OverTheWire Bandit Wargame**, 
 
 ---
 
-
 ## Bandit Level 0 → 1
 
 **Username:** bandit0  
@@ -53,3 +52,222 @@ Repository ini berisi write-up terstruktur dari **OverTheWire Bandit Wargame**, 
 ### 🧠 Langkah Pengerjaan
 ```bash
 # perintah yang digunakan
+
+```
+## Bandit Level 2 → 3
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 3 → 4
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 4 → 5
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 5 → 6
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 6 → 7
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 7 → 8
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 8 → 9
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 9 → 10
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 10 → 11
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 11 → 12
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+
+## Bandit Level 12 → 13
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 13 → 14
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 14 → 15
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 15 → 16
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 16 → 17
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 17 → 18
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 18 → 19
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
+## Bandit Level 20 → 21
+
+**Username:** bandit0  
+
+### 📌 Deskripsi Level
+<!-- Deskripsi singkat tantangan -->
+
+### 🧠 Langkah Pengerjaan
+```bash
+# perintah yang digunakan
+
+```
